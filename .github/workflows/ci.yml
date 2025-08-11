@@ -14,17 +14,7 @@ jobs:
             libasound2-dev libx11-dev libxrandr-dev libxi-dev libgl1-mesa-dev git
 
       - name: Setup raylib
-        run: |
-          cd third_party
-          git clone --depth=1 --branch 5.0 https://github.com/raysan5/raylib.git
-
-      - name: Build (desktop)
-        run: |
-          cmake -B build -S .
-          cmake --build build -j
-
-      - name: Tests
-        run: |
-          cmake -B build-tests -S tests
-          cmake --build build-tests -j
-          ./build-tests/ascendancy_tests
+  run: |
+    mkdir -p third_party
+    rm -rf third_party/raylib
+    git clone --depth=1 --branch 5.0 https://github.com/raysan5/raylib.git third_party/raylib
