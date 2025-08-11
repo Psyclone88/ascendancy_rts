@@ -1,0 +1,8 @@
+{
+  "default": {
+    "edge_scroll": true,
+    "vibration": true,
+    "lefty_mode": false,
+    "ui_scale": 1.0
+  }
+}

@@ -1,0 +1,1 @@
+dr_wav, dr_mp3 by David Reid. Public domain or MIT-0. See headers.

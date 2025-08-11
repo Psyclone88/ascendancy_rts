@@ -1,0 +1,3 @@
+This software is based in part on raylib (https://www.raylib.com/) which is licensed under the zlib/libpng license.
+Copyright (c) 2013-2025 Ramon Santamaria and contributors.
+Permission is granted to use, alter, and distribute raylib with attribution and without warranty.

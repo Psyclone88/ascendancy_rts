@@ -1,0 +1,5 @@
+{
+  "low": {"shadows": false, "postfx": false, "lod": 1},
+  "medium": {"shadows": false, "postfx": true, "lod": 1},
+  "high": {"shadows": true, "postfx": true, "lod": 0}
+}

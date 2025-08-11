@@ -1,0 +1,5 @@
+{
+  "easy": ["worker","house","farm","barracks","spearman","spearman","archer"],
+  "normal": ["worker","house","farm","barracks","spearman","archer","archer","stable","cavalry"],
+  "hard": ["worker","house","farm","barracks","spearman","archer","stable","cavalry","workshop","ram"]
+}

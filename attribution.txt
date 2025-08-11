@@ -1,0 +1,12 @@
+Ascendancy RTS (c) 2025 Ascendancy Team
+
+Third-party components:
+- Raylib — zlib/libpng license (code fetched by scripts at pinned commit)
+- stb libraries — Public Domain/MIT
+- dr_wav/dr_mp3 — Public Domain/MIT
+- tinygltf — MIT
+- miniaudio — Unlicense/MIT
+
+Textures and audio in this repository are either procedurally generated at build/run time or CC0 where explicitly noted in asset manifests.
+
+No external copyrighted assets are bundled.

@@ -1,0 +1,9 @@
+[
+  {"id":"foraging","epoch":1,"desc":"Basic gathering speed +10%"},
+  {"id":"bronze_working","epoch":2,"desc":"Unlocks bronze units"},
+  {"id":"iron_casting","epoch":3,"desc":"Melee +1"},
+  {"id":"feudal_law","epoch":4,"desc":"Population cap +10"},
+  {"id":"steam_power","epoch":5,"desc":"Work speed +10%"},
+  {"id":"ballistics","epoch":6,"desc":"Ranged accuracy +10%"},
+  {"id":"automation","epoch":7,"desc":"Economy +10%"}
+]

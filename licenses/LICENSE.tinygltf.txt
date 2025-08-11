@@ -1,0 +1,1 @@
+tinygltf is MIT licensed. See header for full terms.

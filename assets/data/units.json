@@ -1,0 +1,15 @@
+[
+  {"id":"worker","epoch":1,"hp":30,"atk":2,"arm":0,"speed":1.2,"role":"eco"},
+  {"id":"scout","epoch":1,"hp":40,"atk":3,"arm":0,"speed":1.8,"role":"recon"},
+  {"id":"spearman","epoch":2,"hp":60,"atk":5,"arm":1,"speed":1.0,"role":"anti_cav"},
+  {"id":"archer","epoch":2,"hp":45,"atk":6,"arm":0,"speed":1.0,"role":"ranged"},
+  {"id":"swordsman","epoch":3,"hp":80,"atk":8,"arm":2,"speed":0.9,"role":"melee"},
+  {"id":"cavalry","epoch":3,"hp":90,"atk":9,"arm":1,"speed":1.6,"role":"cav"},
+  {"id":"ram","epoch":4,"hp":250,"atk":18,"arm":3,"speed":0.6,"role":"siege"},
+  {"id":"catapult","epoch":4,"hp":120,"atk":22,"arm":1,"speed":0.5,"role":"siege"},
+  {"id":"musketeer","epoch":5,"hp":70,"atk":12,"arm":1,"speed":1.0,"role":"ranged"},
+  {"id":"cannon","epoch":5,"hp":160,"atk":28,"arm":2,"speed":0.6,"role":"siege"},
+  {"id":"tank","epoch":6,"hp":400,"atk":38,"arm":5,"speed":1.2,"role":"armor"},
+  {"id":"helicopter","epoch":7,"hp":220,"atk":26,"arm":2,"speed":2.0,"role":"air"},
+  {"id":"drone","epoch":7,"hp":80,"atk":18,"arm":0,"speed":2.2,"role":"air"}
+]

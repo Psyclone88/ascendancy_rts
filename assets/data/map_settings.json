@@ -1,0 +1,5 @@
+{
+  "biomes": ["temperate","desert","snow","jungle"],
+  "size": [128, 128],
+  "seed": 1337
+}

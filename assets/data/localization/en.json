@@ -1,0 +1,12 @@
+{
+  "ui_play": "Play",
+  "ui_settings": "Settings",
+  "ui_quit": "Quit",
+  "epoch_1": "Stone",
+  "epoch_2": "Bronze",
+  "epoch_3": "Iron",
+  "epoch_4": "Medieval",
+  "epoch_5": "Industrial",
+  "epoch_6": "Modern",
+  "epoch_7": "Digital"
+}

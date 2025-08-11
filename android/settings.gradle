@@ -1,0 +1,5 @@
+pluginManagement {
+    repositories { google(); mavenCentral() }
+}
+include ':app'
+rootProject.name = "AscendancyRTS"

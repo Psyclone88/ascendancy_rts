@@ -1,0 +1,17 @@
+[
+  {"id":"town_center","epoch":1,"hp":1500,"roles":["spawn","dropoff"]},
+  {"id":"house","epoch":1,"hp":400,"roles":["popcap"]},
+  {"id":"barracks","epoch":1,"hp":800,"roles":["train_infantry"]},
+  {"id":"archery_range","epoch":2,"hp":800,"roles":["train_ranged"]},
+  {"id":"stable","epoch":3,"hp":900,"roles":["train_cav"]},
+  {"id":"workshop","epoch":4,"hp":900,"roles":["train_siege"]},
+  {"id":"foundry","epoch":5,"hp":900,"roles":["gunpowder"]},
+  {"id":"university","epoch":4,"hp":900,"roles":["research"]},
+  {"id":"farm","epoch":1,"hp":300,"roles":["food"]},
+  {"id":"mill","epoch":1,"hp":500,"roles":["dropoff"]},
+  {"id":"mine","epoch":1,"hp":500,"roles":["metal"]},
+  {"id":"tower","epoch":2,"hp":700,"roles":["defense"]},
+  {"id":"wall","epoch":2,"hp":600,"roles":["defense"]},
+  {"id":"gate","epoch":2,"hp":600,"roles":["defense"]},
+  {"id":"dock","epoch":2,"hp":700,"roles":["naval"]}
+]

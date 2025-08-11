@@ -1,0 +1,2 @@
+stb single-file public domain/MIT libraries by Sean Barrett and contributors.
+See individual headers for exact terms.

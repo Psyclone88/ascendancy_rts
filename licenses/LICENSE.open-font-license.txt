@@ -1,0 +1,1 @@
+SIL Open Font License 1.1 — included for optional future font additions. No font binaries are shipped by default.
